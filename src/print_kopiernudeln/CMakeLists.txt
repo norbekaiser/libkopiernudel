@@ -1,0 +1,2 @@
+add_executable(print_kopiernudeln print_kopiernudeln.cc)
+target_link_libraries(print_kopiernudeln kopiernudel)
