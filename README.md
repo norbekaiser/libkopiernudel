@@ -8,11 +8,11 @@ Eine CXX Library mit einer Liste kurierter Kopiernudeln
 * Telegram bot kopiernudel_bot
 
 ## Pull Requests
-* Wenn du meinst es fehlt eine Kopiernudel, eröffne ein issue oder lade mehrere ein
+* Wenn du meinst es fehlt eine Kopiernudel, nur her damit
 
 ## Repos
-* [Gitlab](https://gitlab.norbert-ruehl.de/kopiernudel/libkopiernudel)
-* [Github norbekaiser/libkopiernudel](https://github.com/norbekaiser/libkopiernudel.git)
+* Dev Instanz: [Gitlab](https://gitlab.norbert-ruehl.de/kopiernudel/libkopiernudel)
+* Mirror: [Github norbekaiser/libkopiernudel](https://github.com/norbekaiser/libkopiernudel.git)
 ## Requirements
 * C++14 fähiger Compiler
 * CMake
