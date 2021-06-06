@@ -1,11 +1,9 @@
 ## libkopiernudel 
 
-Eine CXX Library mit einer Liste kurierter Kopiernudeln
+Eine CXX Library mit einer Liste kuratierter Kopiernudeln
 
 ## Nutzen
 * Android App "Kopiernudel"
-* Ios App "Kopiernudel"
-* Telegram bot kopiernudel_bot
 
 ## Pull Requests
 * Wenn du meinst es fehlt eine Kopiernudel, nur her damit
@@ -13,6 +11,7 @@ Eine CXX Library mit einer Liste kurierter Kopiernudeln
 ## Repos
 * Dev Instanz: [Gitlab](https://gitlab.norbert-ruehl.de/kopiernudel/libkopiernudel)
 * Mirror: [Github norbekaiser/libkopiernudel](https://github.com/norbekaiser/libkopiernudel.git)
+
 ## Requirements
 * C++14 fähiger Compiler
 * CMake
@@ -23,8 +22,3 @@ Eine CXX Library mit einer Liste kurierter Kopiernudeln
 * ```cmake ..```
 * ```make install```
 
-## apt-get Instructions
-* to be followed
-
-## Homebrew Instructions
-* to be followed
